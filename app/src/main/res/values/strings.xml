@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Handler List</string>
+    <string name="main.btn.update_list">Update List</string>
 </resources>
